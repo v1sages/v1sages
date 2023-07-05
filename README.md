@@ -14,4 +14,5 @@
 v1sages/v1sages is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{v1sages}/count.svg)
