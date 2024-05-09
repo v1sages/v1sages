@@ -1,4 +1,4 @@
-- You've reached Visage's Github. Dotfiles and more incoming.. On a security journey, re-vamping my dotfiles and config.
+- You've reached Visage's Github. Dotfiles and more incoming.. re-vamping my dotfiles and config.
 - I’m interested in OSINT, threat intelligence, penetration testing and red teaming, how to write good documentation, and other fun security stuff.
 - I'm currently learning bash scripting, offensive security, and am always learning about OSINT and Linux in general. 
 - I'm looking to collaborate on OSINT tooling, bash scripts, or your neat, small tools. 
